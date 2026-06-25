@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "sofas": "Canapés",
+    "tables": "Tables",
+    "chandeliers": "Lustres",
+    "decoration": "Décoration",
+    "studio": "Studio Design",
+    "gallery": "Réalisations",
+    "about": "À propos",
+    "contact": "Contact",
+    "quote": "Demander un devis",
+    "cart": "Panier",
+    "lang": "AR"
+  },
+  "hero": {
+    "label": "Mobilier de luxe — Algérie",
+    "title": "L'élégance taillée pour vous",
+    "subtitle": "Canapés, tables et lustres sélectionnés pour les intérieurs d'exception. Livraison dans toute l'Algérie.",
+    "cta_shop": "Voir le catalogue",
+    "cta_design": "Créer votre table"
+  },
+  "categories": {
+    "title": "Nos collections",
+    "subtitle": "Explorez notre univers de mobilier de luxe",
+    "sofas": "Canapés",
+    "sofas_desc": "Élégance et confort réunis",
+    "tables": "Tables",
+    "tables_desc": "Design intemporel",
+    "chandeliers": "Lustres",
+    "chandeliers_desc": "Lumière d'exception",
+    "decoration": "Décoration",
+    "decoration_desc": "Touches raffinées"
+  },
+  "why": {
+    "title": "Pourquoi choisir Haithem Fourniture ?",
+    "subtitle": "Notre engagement envers la qualité et le service",
+    "custom_title": "Fabrication sur mesure",
+    "custom_desc": "Nous créons votre mobilier selon vos goûts et les dimensions exactes de votre intérieur",
+    "delivery_title": "Livraison nationale",
+    "delivery_desc": "Nous livrons dans les 58 wilayas d'Algérie avec soin et rapidité",
+    "install_title": "Installation incluse",
+    "install_desc": "Notre équipe installe chaque pièce chez vous sans frais supplémentaires",
+    "quality_title": "Qualité garantie",
+    "quality_desc": "Matériaux nobles et finitions luxueuses sur chaque pièce"
+  },
+  "testimonials": {
+    "title": "Ils nous font confiance",
+    "subtitle": "Avis authentiques de nos clients algériens"
+  },
+  "contact_cta": {
+    "title": "Vous cherchez un mobilier sur mesure ?",
+    "subtitle": "Contactez-nous aujourd'hui et obtenez un devis gratuit",
+    "cta_quote": "Demander un devis",
+    "cta_whatsapp": "WhatsApp"
+  },
+  "footer": {
+    "tagline": "Mobilier de luxe sélectionné à la main pour les intérieurs d'exception en Algérie",
+    "shop": "Boutique",
+    "company": "Entreprise",
+    "support": "Support",
+    "delivery": "Livraison & Installation",
+    "faq": "FAQ",
+    "social": "Suivez-nous",
+    "rights": "Tous droits réservés"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour vous aider",
+    "showroom": "Notre Showroom",
+    "address": "Rue Bahlouli — El-Eulma, Sétif",
+    "hours": "Dim – Ven : 9h00 – 18h00",
+    "form_name": "Nom complet",
+    "form_phone": "Numéro de téléphone",
+    "form_email": "Email",
+    "form_message": "Détails de votre projet",
+    "form_submit": "Envoyer le message"
+  },
+  "about": {
+    "title": "À propos",
+    "story_title": "Notre histoire",
+    "story": "Haithem Fourniture — marque algérienne spécialisée dans le mobilier de luxe artisanal. Nous allions élégance et durabilité pour vous offrir un mobilier à la hauteur de votre intérieur.",
+    "values_title": "Nos valeurs",
+    "mission_title": "Notre mission"
+  }
+}

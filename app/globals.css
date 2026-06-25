@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-playfair: 'Playfair Display', serif;
+  --font-inter: 'Inter', sans-serif;
+  --font-noto-arabic: 'Noto Naskh Arabic', serif;
+  --cream: #EDE8D0;
+  --green: #008E47;
+  --gold: #C9A84C;
+}
+
+html[lang="ar"] {
+  direction: rtl;
+}
+
+html[lang="fr"] {
+  direction: ltr;
+}
+
+body {
+  background-color: var(--cream);
+  color: #1A1A1A;
+}
+
+html[lang="ar"] body {
+  font-family: var(--font-noto-arabic), var(--font-playfair), serif;
+}
+
+html[lang="fr"] body {
+  font-family: var(--font-inter), sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-playfair), serif;
+}
+
+html[lang="ar"] .font-display {
+  font-family: var(--font-noto-arabic), serif;
+}
+
+.section-padding {
+  @apply px-4 sm:px-8 lg:px-16 xl:px-24;
+}
+
+.btn-primary {
+  @apply bg-green-DEFAULT hover:bg-green-dark text-white px-8 py-3 rounded-none font-medium tracking-wide transition-all duration-200;
+}
+
+.btn-secondary {
+  @apply border border-cream text-cream hover:bg-cream hover:text-dark px-8 py-3 rounded-none font-medium tracking-wide transition-all duration-200;
+}
+
+.btn-gold {
+  @apply bg-gold hover:bg-gold-light text-dark px-8 py-3 rounded-none font-medium tracking-wide transition-all duration-200;
+}
+
+@layer utilities {
+  .text-balance { text-wrap: balance; }
+}
